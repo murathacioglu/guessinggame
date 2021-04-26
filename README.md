@@ -1,3 +1,4 @@
 ## Guessin Game
-The date and time when the makefile was created is ate
-The number of lines in guessinggame.sh is  
+The date and time when the makefile was created is
+Mon Apr 26 22:57:00 +03 2021
+The number of lines in guessinggame.sh is
